@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Patua+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Gelasio&display=swap" rel="stylesheet");
+@import url("https://fonts.googleapis.com/css?family=Alatsi&display=swap" rel="stylesheet");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background-color: black; 
+}
+
+h1{
+	font-family: 'Gelasio', serif;
+}
+
+h2{
+	font-family: 'Patua One', cursive;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
+

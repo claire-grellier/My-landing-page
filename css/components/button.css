@@ -1,0 +1,10 @@
+.button{
+	background-color: rgb(125, 171, 133);
+	padding: 10px 15px; 
+	border-radius: 8%;
+	margin-bottom: 15px; 
+	color: white; 
+	font-family: 'Alatsi', sans-serif;
+	font-size: 15px; 
+
+}
